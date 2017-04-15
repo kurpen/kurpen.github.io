@@ -1,0 +1,28 @@
+
+
+html,
+
+body {
+
+  height: 100%;
+
+  width: 100%;
+
+}
+
+h1,h2,h3{
+	font-size:30px;
+	color:red;
+}
+img{
+	width:400px;
+}
+.home-header{
+	background-color:black;
+	color:white;
+}
+.caption{
+	background: #222222;
+	color:white;
+	text-align:center;
+}
